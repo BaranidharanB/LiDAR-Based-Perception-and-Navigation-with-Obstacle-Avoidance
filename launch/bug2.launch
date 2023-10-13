@@ -1,0 +1,11 @@
+
+# DISCLAIMER: I have deleted few parts of the code for my safety purpose
+
+<launch>
+	<node name="bot2" pkg="" type="bug2.py" output="screen">
+    <rosparam>
+        x:3.5 
+        y:2.5
+    </rosparam>
+    </node>
+</launch> 
